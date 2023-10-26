@@ -1,2 +1,2 @@
 # Portugol
-Aulas e desafios do feitos no Portugol
+Aulas e desafios feitos no Portugol
